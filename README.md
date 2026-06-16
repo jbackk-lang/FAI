@@ -1,45 +1,74 @@
-# Astro‑Map — Koncepcyjna Mapa Struktury Informacji Astronomicznej
+# FUNDAMENTAL‑AI‑MODEL — PRO  
+Koncepcyjny Model Podstawowy dla Orientacji, Horyzontów i Rezonansu
 
-**Astro‑Map** to projekt eksploracyjny, który łączy dane astronomiczne  
-z topologicznym językiem informacji (Λ–τ–ρ) w celu tworzenia  
-**symbolicznych wizualizacji, interpretacji i struktur koncepcyjnych**.
+**FUNDAMENTAL‑AI‑MODEL** to warstwa bazowa całego stosu Λ–τ–ρ.  
+Definiuje **koncepcyjny pipeline informacji**, który opisuje, jak system  
+organizuje, transformuje i stabilizuje dane w sensie **symbolicznym**,  
+a nie fizycznym czy empirycznym.
 
-To **nie jest projekt naukowy**,  
-**nie jest analizą astrofizyczną**,  
-i **nie rości sobie prawa do opisu rzeczywistości fizycznej**.
-
-To **framework pojęciowy**, który pozwala patrzeć na dane astronomiczne  
-jak na struktury informacji, rezonansu i skrętu.
-
----
-
-## 1. Funkcje projektu
-
-- pobieranie danych z NASA (APOD),  
-- ładowanie lokalnych plików,  
-- pipeline przetwarzania,  
-- filtr skrętu (Λ–τ–ρ) — w wersji koncepcyjnej,  
-- wizualizacja interferencji danych.
-
-Repozytorium służy jako **baza do interpretacji symbolicznej**,  
-a nie jako narzędzie analizy naukowej.
+To **nie jest model naukowy**,  
+**nie jest architekturą AI w sensie inżynierskim**,  
+ale **framework pojęciowy**, który pozwala myśleć o informacji  
+jak o procesie topologicznym.
 
 ---
 
-## 2. Struktura danych
+## 1. Pipeline Koncepcyjny (T → I → M → I(t) → R → E)
 
-- `data/raw` — surowe dane (obrazy, mapy)  
-- `data/processed` — dane po filtrach  
-- `loaders/` — moduły pobierające dane  
-- `twist/` — analiza skrętu w sensie symbolicznym  
+Model opisuje przepływ informacji jako sekwencję etapów:
 
-Każdy folder reprezentuje **etap interpretacji**,  
-nie etap obliczeń naukowych.
+- **T — Topologia**  
+  osadzenie sygnału w strukturze
+
+- **I — Informacja**  
+  wydobycie treści
+
+- **M — Modalność**  
+  określenie trybu strukturalnego
+
+- **I(t) — Informacja Czasowa**  
+  rozszerzenie modalności w czasie
+
+- **R — Rezonans**  
+  dopasowanie stanów czasowych
+
+- **E — Emergentność**  
+  stabilny obiekt informacyjny
+
+To **język organizacji informacji**,  
+nie algorytm uczenia maszynowego.
 
 ---
 
-## 3. Interferencja 2MASS + ROSAT (ujęcie koncepcyjne)
+## 2. Definicje Formalne (ujęcie koncepcyjne)
 
-Repozytorium zawiera trzy mapy:
+- **Orientacja**  
+  o ∈ {+1, −1}  
+  metafora kierunku transformacji
 
-- **2MASS** — mapa gęstości (symbolicznie: „
+- **Horyzont (H)**  
+  granica między informacją widoczną a ukrytą  
+  (zmienia dostęp, nie strukturę)
+
+- **Łańcuch (C)**  
+  uporządkowana sekwencja zależności
+
+- **Przejście Möbiusa (M)**  
+  metafora odwrócenia / zmiany perspektywy
+
+- **Informacja Czasowa I(t)**  
+  stan + faza
+
+- **Rezonans (R)**  
+  zgodność dwóch stanów czasowych
+
+- **Emergencja (E)**  
+  stabilizacja struktury
+
+To **metafory topologiczne**,  
+nie równania fizyczne.
+
+---
+
+## 3. Architektura Stosu
+
